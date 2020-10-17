@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**subhamsarangi500/subhamsarangi500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Facebook Badge](https://img.shields.io/badge/-Subham_Sarangi-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/subham.sarangi.71)](https://www.facebook.com/subham.sarangi.71)
+[![Gmail Badge](https://img.shields.io/badge/-subhamsarangi500@gmail.com-c11111?style=social&logo=Gmail&logoColor=red&link=mailto:subhamsarangi500@gmail.com)](mailto:subhamsarangi500@gmail.com)
 
-Here are some ideas to get you started:
-
+<br/><p align ="left"><code><img height ="25" src= "https://miro.medium.com/max/918/1*YU6BvZKvxivoEnvqxeG5rw.png"></code></p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
